@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.folder {
+	width: 48px;
+	height: 48px;
+	background: url(../icons/folder.png) no-repeat;
+}
+
+.folder:focus {
+	width: 48px;
+	height: 48px;
+	background : url(../icons/folder-focus.png) no-repeat;
+	outline: none;
+}
+
+.folder-loading {
+	background : url(../icons/folder-download.png) no-repeat;
+}

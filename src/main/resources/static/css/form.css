@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.hidden {
+  display : none;
+  }
+
+.visible {
+  display : block;
+  }
+  
